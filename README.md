@@ -1,5 +1,5 @@
 # Repositório do Desafio de Projeto sobre Git/GitHub
-Depositório de Projeto sobre Git/GitHUb
+Repositório criado para o desafio de projeto.
 
 ## Links úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
